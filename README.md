@@ -53,10 +53,10 @@ I also enjoy working with open source tools, penetration testing, and building s
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=b4r)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baradika)](https://git.io/streak-stats)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=b4r&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=baradika&hide_border=false&layout=compact)  
 
-![b4r's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b4r&show_icons=true)  
+![baradika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baradika&show_icons=true)  
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=b4r&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=baradika&no-frame=true)
